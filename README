@@ -1,0 +1,3 @@
+maven-native-build.sh
+--------------------------------------------------------------------------------
+This script is used to build the maven native plugin from codehaus
