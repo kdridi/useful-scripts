@@ -1,3 +1,9 @@
+To update this project, run those commands
+git commit -m 'my comments'
+git push origin master
+
 maven-native-build.sh
 --------------------------------------------------------------------------------
 This script is used to build the maven native plugin from codehaus
+USAGE:
+	./maven-native-build.sh /path/to/the/maven/local/repository
